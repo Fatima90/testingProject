@@ -26,7 +26,7 @@
 //   );
 // };
 
-// export default App;
+export default App;
 
 import { createAppContainer } from 'react-navigation';
 import { createStackNavigator } from 'react-navigation-stack';
